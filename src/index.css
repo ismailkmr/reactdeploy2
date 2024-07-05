@@ -5,7 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: red;
+  background: url('https://th.bing.com/th/id/R.23d2ca131a4337f12cfef458c5627f17?rik=RXcS5U5KMb3g%2fg&riu=http%3a%2f%2fjamianooriya.in%2fwp-content%2fuploads%2f2019%2f04%2fJAMIA-1060x460.jpg&ehk=5NNRBtQmOeJ7SkjCd0bWFG3XVXBNnr75Ef55ZPbXyX8%3d&risl=&pid=ImgRaw&r=0') no-repeat;
+  background-size: 100%;
+  background-repeat: no-repeat;
   color: white;
 }
 
