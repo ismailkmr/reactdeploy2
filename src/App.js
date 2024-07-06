@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>Jami'a Nooriyya Arabic College</h1>
+     <h1>Jami'a Nooriyya Arabic College | Students Portal | Exam Result | Progress Report</h1>
     </div>
   );
 }
